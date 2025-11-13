@@ -6,6 +6,6 @@ export default defineConfig({
   plugins: [react()],
   base:"/my-app/",
   servers:{
-    hots:ture
+    host:true
   },
 });
